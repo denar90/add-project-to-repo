@@ -1,0 +1,20 @@
+{
+	"name": "add-project-to-repo",
+	"version": "0.0.1",
+	"description": "Easiest way to add existing project into repository",
+	"author": "denar90",
+	"directory": "add-project-to-repo",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/denar90/add-project-to-repo.git"
+	},
+	"keywords": [
+		"git",
+		"rpository",
+		"cli"
+	],
+	"license": "MIT",
+	"bin": {
+		"atr": "./bin/atr.js"
+	}
+}
