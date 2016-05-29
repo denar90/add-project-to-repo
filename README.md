@@ -4,7 +4,7 @@ Easiest way to add existing project or files into repository
 
 ##Install
 
-`npm -g add-project-to-repo`
+`npm i -g add-project-to-repo`
 
 ###Features
 Get lazy and use 
